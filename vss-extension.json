@@ -1,15 +1,15 @@
 {
     "manifestVersion": 1.0,
     "id": "vsts-extensions-multivalue-control",
-    "version": "2.2.26",
+    "version": "1.0.12",
     "name": "Multivalue control",
     "description": "A work item form control which allows selection of multiple values.",
-    "publisher": "ms-devlabs",
+    "publisher": "MS-Device-Engineering-Services",
     "icons": {
         "default": "img/logo.png"
     },
     "categories": [
-        "Plan and track"
+        "Azure Boards"
     ],
     "targets": [
         {

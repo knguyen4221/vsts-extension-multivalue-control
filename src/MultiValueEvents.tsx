@@ -38,7 +38,7 @@ export class MultiValueEvents {
             options={await getSuggestedValues()}
             onSelectionChanged={this._setSelected}
             width={this._container.scrollWidth}
-            placeholder={selected.length ? "Click to Add" : "No selection made"}
+            placeholder={ "" }
             onResize={this._resize}
             error={error}
         />, this._container, () => {
